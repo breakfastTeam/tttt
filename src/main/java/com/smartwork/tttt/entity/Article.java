@@ -27,8 +27,16 @@ public class Article {
     private String author;
     private String title;
     private String content;
-    private String thumbs;//缩略图
+    /**
+     * 缩略图
+     */
+    private String thumbs;
     private String url;
+    private String tags;
+    /**
+     * 外部id标识
+     */
+    private String unionId;
     @Convert(converter = Jsr310JpaConverters.LocalDateTimeConverter.class)
     private LocalDateTime created;
 }
