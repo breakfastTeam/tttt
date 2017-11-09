@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 
 /**
  * @author longkai.zlk
- * @email zhaolongkai3k@hujiang.com
+ * @email zhaolongkai3k@gamil.com
  * @createTime 2017/11/7
  */
 @Data

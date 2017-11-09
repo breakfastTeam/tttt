@@ -9,7 +9,7 @@ import javax.persistence.Id;
 
 /**
  * @author longkai.zlk
- * @email zhaolongkai3k@hujiang.com
+ * @email zhaolongkai3k@gmail.com
  * @createTime 2017/11/7
  */
 @Data
